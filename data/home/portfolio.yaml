@@ -7,12 +7,12 @@ content:
     title: "Cloud PBX"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+  #  buttons: 
+  #    - label: "See live"
+  #      url: "#"
 
-      - label: "Read more"
-        url: "#"
+  #    - label: "Read more"
+  #      url: "#"
 
   - image: "images/portfolio-microsoftteams.png"
     pretitle: "Portfolio Service"
@@ -20,20 +20,20 @@ content:
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
     buttons: 
-      - label: "See live"
-        url: "#"
+    #  - label: "See live"
+    #    url: "#"
 
-      - label: "Read more"
-        url: "#"
+    #  - label: "Read more"
+    #    url: "#"
 
   - image: "images/portfolio-SIP-Trunking.webp"
     pretitle: "Portfolio Service"
     title: "SIP Trunks"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+   # buttons: 
+    #  - label: "See live"
+    #    url: "#"
 
-      - label: "Read more"
-        url: "#"
+    #  - label: "Read more"
+    #    url: "#"
