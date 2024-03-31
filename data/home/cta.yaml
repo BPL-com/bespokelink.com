@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
-  image: "images/services-web-development.png"
+  title: "Modernise your communication system now!"
+  image: "images/service-modernize.png"
   button:
     label: "Let's talk"
     url: "#"

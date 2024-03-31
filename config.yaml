@@ -43,21 +43,21 @@ params:
 
 menus:
   main:
-    - name: "Home"
+    - name: ""
       url: "/#hero"
       weight: 1
 
-    - name: "Services"
-      url: "/services"
-      weight: 2
+  #  - name: "Services"
+  #    url: "/services"
+  #    weight: 2
 
-    - name: "How it works"
-      url: "/backend"
-      weight: 3
+  #  - name: "How it works"
+  #    url: "/backend"
+  #    weight: 3
 
-    - name: "About"
-      url: "/about-us"
-      weight: 4
+  #  - name: "About"
+  #    url: "/about-us"
+  #    weight: 4
 
 #    - name: "Blog"
 #      url: "/blog"
@@ -65,7 +65,7 @@ menus:
 
   buttons:
     - name: "Book a call"
-      url: "/#"
+      url: "https://calendly.com/bespokelink/30min"
       weight: 5
       pre: "btn btn-primary text-light"
 
